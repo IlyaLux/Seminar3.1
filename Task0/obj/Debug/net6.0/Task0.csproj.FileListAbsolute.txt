@@ -1,0 +1,15 @@
+C:\Users\Илья\Desktop\Учёба\Семинары\3. Знакомство с языками программирования\Семинар_3.1\Seminar3.1\Task0\bin\Debug\net6.0\Task0.exe
+C:\Users\Илья\Desktop\Учёба\Семинары\3. Знакомство с языками программирования\Семинар_3.1\Seminar3.1\Task0\bin\Debug\net6.0\Task0.deps.json
+C:\Users\Илья\Desktop\Учёба\Семинары\3. Знакомство с языками программирования\Семинар_3.1\Seminar3.1\Task0\bin\Debug\net6.0\Task0.runtimeconfig.json
+C:\Users\Илья\Desktop\Учёба\Семинары\3. Знакомство с языками программирования\Семинар_3.1\Seminar3.1\Task0\bin\Debug\net6.0\Task0.dll
+C:\Users\Илья\Desktop\Учёба\Семинары\3. Знакомство с языками программирования\Семинар_3.1\Seminar3.1\Task0\bin\Debug\net6.0\Task0.pdb
+C:\Users\Илья\Desktop\Учёба\Семинары\3. Знакомство с языками программирования\Семинар_3.1\Seminar3.1\Task0\obj\Debug\net6.0\Task0.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\Учёба\Семинары\3. Знакомство с языками программирования\Семинар_3.1\Seminar3.1\Task0\obj\Debug\net6.0\Task0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\Учёба\Семинары\3. Знакомство с языками программирования\Семинар_3.1\Seminar3.1\Task0\obj\Debug\net6.0\Task0.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\Учёба\Семинары\3. Знакомство с языками программирования\Семинар_3.1\Seminar3.1\Task0\obj\Debug\net6.0\Task0.AssemblyInfo.cs
+C:\Users\Илья\Desktop\Учёба\Семинары\3. Знакомство с языками программирования\Семинар_3.1\Seminar3.1\Task0\obj\Debug\net6.0\Task0.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\Учёба\Семинары\3. Знакомство с языками программирования\Семинар_3.1\Seminar3.1\Task0\obj\Debug\net6.0\Task0.dll
+C:\Users\Илья\Desktop\Учёба\Семинары\3. Знакомство с языками программирования\Семинар_3.1\Seminar3.1\Task0\obj\Debug\net6.0\refint\Task0.dll
+C:\Users\Илья\Desktop\Учёба\Семинары\3. Знакомство с языками программирования\Семинар_3.1\Seminar3.1\Task0\obj\Debug\net6.0\Task0.pdb
+C:\Users\Илья\Desktop\Учёба\Семинары\3. Знакомство с языками программирования\Семинар_3.1\Seminar3.1\Task0\obj\Debug\net6.0\Task0.genruntimeconfig.cache
+C:\Users\Илья\Desktop\Учёба\Семинары\3. Знакомство с языками программирования\Семинар_3.1\Seminar3.1\Task0\obj\Debug\net6.0\ref\Task0.dll
